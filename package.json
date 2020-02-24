@@ -1,0 +1,33 @@
+{
+  "name": "metropolis_node_sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contactsystems/metropolis_node_sdk.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Contact Systems",
+    "email": "info@contactsystems.io",
+    "url": "https://contactsystems.io/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contactsystems/metropolis_node_sdk/issues"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "contributors": [
+    "Randolph William Aarseth II <randy@contactsystems.io>"
+  ],
+  "homepage": "https://github.com/contactsystems/metropolis_node_sdk#readme"
+}
