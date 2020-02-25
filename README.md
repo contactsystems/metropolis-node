@@ -34,8 +34,9 @@ PDF & CHM located in the "Release" section of this Git Repo.
 ## Contact us
 
 Visit: The [Contact Systems](https://www.contactsystems.io/) website and follow us on [Twitter](https://twitter.com/c0ntactsystems) (#contactsystems)
-Learn: API Docs, Support Forum and StackOverflow
+
 Read: The [Contact Systems Medium] (https://medium.com/c%C3%B8ntact-systems)
+
 Chat: [discord](https://discord.gg/J9ntMyU)
 
 ## Open Issues
