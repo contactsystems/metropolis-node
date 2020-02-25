@@ -33,9 +33,13 @@ PDF & CHM located in the "Release" section of this Git Repo.
 
 ## Contact us
 
-**Visit:** The [Contact Systems](https://www.contactsystems.io/) website and follow us on [Twitter](https://twitter.com/c0ntactsystems) (#contactsystems)
+**Website:** [Contact Systems](https://www.contactsystems.io/)
 
-**Read:** The [Contact Systems Medium] (https://medium.com/c%C3%B8ntact-systems)
+**Twitter:** [Twitter](https://twitter.com/c0ntactsystems)
+
+**Facebook:** [Facebook] (facebook.com/c0ntactsystems)
+
+**Blog:** The [Contact Systems Medium] (https://medium.com/c%C3%B8ntact-systems)
 
 **Chat:** [Discord](https://discord.gg/J9ntMyU)
 
@@ -47,7 +51,7 @@ If you encounter a bug/error with the Metropolis SDK for Node.js, we would love 
 * Let us know if you're running this inside Docker
 * Stack Trace or Debug Console Output
 
-GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizing our Node.js SDK, please visit our [Discord Server](), and check out our other resource information listed above in the "Getting Help" section.
+GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizing our Node.js SDK, please visit our [Discord](https://discord.gg/J9ntMyU), and check out our other resource information listed above in the "Getting Help" section.
 
 ## License
 
