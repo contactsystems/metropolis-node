@@ -22,6 +22,16 @@ var access = "00000000-0000-0000-0000-000000000000", secret = "00000000-0000-000
 var contact = require('metropolis-node'), sdk = new contact(access, secret);
 ```
 
+## Open Issues
+If you encounter a bug/error with the Metropolis SDK for Node.js, we'd love to hear about it. Search our [Existing Issues]() and if you're unable to find it there, please open a new issue. Make sure to include:
+* SDK version number
+* Node.js
+* OS used
+* Let us know if you're running this inside Docker
+* Stack Trace or Debug Console Output
+
+GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizing our Node.js SDK, please visit our [Discord](https://discord.gg/E9WVsWt) and let us know how we can help.
+
 ## Getting Started
 
 **To onboarding to our system, please email us at:** info@contactsystems.io
@@ -39,16 +49,6 @@ var contact = require('metropolis-node'), sdk = new contact(access, secret);
 **Blog:** [Contact Systems Medium](https://medium.com/c%C3%B8ntact-systems)
 
 **Chat:** [Discord](https://discord.gg/J9ntMyU)
-
-## Open Issues
-If you encounter a bug/error with the Metropolis SDK for Node.js, we'd love to hear about it. Search our [Existing Issues]() and if you're unable to find it there, please open a new issue. Make sure to include:
-* SDK version number
-* Node.js
-* OS used
-* Let us know if you're running this inside Docker
-* Stack Trace or Debug Console Output
-
-GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizing our Node.js SDK, please visit our [Discord](https://discord.gg/E9WVsWt) and let us know how we can help.
 
 ## License
 
