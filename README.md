@@ -4,7 +4,7 @@
 The Metropolis Node.js SDK provides:
 
 * User inventory management
-* Ability to mint gaming items
+* Gaming item creation & minting
 * Game session creation
 * Game ownership validation
 
@@ -23,11 +23,11 @@ var contact = require('metropolis-node'), sdk = new contact(access, secret);
 
 ## Getting Started
 
-To onboarding to our system, please email us at: info@contactsystems.io
+**To onboarding to our system, please email us at:** info@contactsystems.io
 
-Starting Guide: <URL HERE>
+**Starting Guide:** <URL HERE>
 
-Wiki/Docs: https://github.com/contactsystems/metropolis-node/wiki
+**Wiki/Docs:** https://github.com/contactsystems/metropolis-node/wiki
 
 PDF & CHM located in the "Release" section of this Git Repo.
 
