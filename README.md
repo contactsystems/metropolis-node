@@ -46,7 +46,7 @@ GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizin
 
 **Facebook:** [Facebook](facebook.com/c0ntactsystems)
 
-**Blog:** [Contact Systems Medium](https://medium.com/c%C3%B8ntact-systems)
+**Blog:** [Medium](https://medium.com/c%C3%B8ntact-systems)
 
 **Chat:** [Discord](https://discord.gg/J9ntMyU)
 
