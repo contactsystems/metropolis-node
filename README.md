@@ -36,7 +36,7 @@ GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizin
 
 **To onboarding to our system, please email us at:** info@contactsystems.io
 
-**Wiki/Docs:** https://github.com/contactsystems/metropolis-node/wiki
+**GitWiki:** https://github.com/contactsystems/metropolis-node/wiki
 
 ## Contact Us
 
