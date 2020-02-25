@@ -1,11 +1,9 @@
-# metropolis-node
-
-Metropolis consists of a suite of developer tools that allows for easy integration to best suit your game and user experience.
+# metropolis-node - Game developer tools to facilitate digital asset generation & user ownership association
 
 The Metropolis Node.js SDK provides:
 
 * User inventory management
-* Minting gaming items
+* Ability to mint gaming items
 * Game session creation
 * Game ownership validation
 
