@@ -9,7 +9,9 @@ The Metropolis Node.js SDK provides game developer tools to facilitate gaming it
 
 ## Installing & Example
 
-### Node.js
+### NPM
+
+Install via [npm](https://www.npmjs.com/)
 ```sh
  developer@computer: ~$ npm install metropolis-node --save
 ```
@@ -30,7 +32,7 @@ var contact = require('metropolis-node'), sdk = new contact(access, secret);
 
 PDF & CHM located in the "Release" section of this Git Repo.
 
-## Contact us
+## Contact Us
 
 **Website:** [Contact Systems](https://www.contactsystems.io/)
 
