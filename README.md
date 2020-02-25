@@ -34,9 +34,9 @@ var contact = require('metropolis-node'), sdk = new contact(access, secret);
 
 **Twitter:** [Twitter](https://twitter.com/c0ntactsystems)
 
-**Facebook:** [Facebook] (facebook.com/c0ntactsystems)
+**Facebook:** [Facebook](facebook.com/c0ntactsystems)
 
-**Blog:** The [Contact Systems Medium] (https://medium.com/c%C3%B8ntact-systems)
+**Blog:** [Contact Systems Medium](https://medium.com/c%C3%B8ntact-systems)
 
 **Chat:** [Discord](https://discord.gg/J9ntMyU)
 
