@@ -2,8 +2,6 @@
 
 Metropolis consists of a suite of developer tools that allows for easy integration to best suit your game and user experience.
 
-The Metropolis Node.js SDK
-
 The Metropolis Node.js SDK provides:
 
 * User inventory management
