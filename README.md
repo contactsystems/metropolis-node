@@ -1,6 +1,14 @@
 # metropolis-node
 
-The Official Node.js SDK for the Metropolis ~ Copy goes here 
+The Official Node.js SDK for the Metropolis ~ Copy goes here
+
+It Provides
+
+* Management of User INVENTORY
+* Handling & Control of Minting Assets for Users
+* Game Session Creation
+* Game Ownership Validation
+* And Much Much More!
 
 ## Installing & Example
 
@@ -18,6 +26,9 @@ var contact = require('metropolis-node'), sdk = new contact(access, secret);
 ## Usage & Getting Started
 
 Starting Guide: <URL HERE>
+Wiki/Docs: <URL HERE>
+
+PDF & CHM located in the Release Section of this Git Repo.
 
 ## Getting Help
 Here is a List of Community Resources for getting Help!
