@@ -16,7 +16,7 @@ Install via [npm](https://www.npmjs.com/):
 ~$ npm install metropolis-node --save
 ```
 
-#### Example
+### Example
 ```javascript
 var access = "00000000-0000-0000-0000-000000000000", secret = "00000000-0000-0000-0000-000000000000";
 var contact = require('metropolis-node'), sdk = new contact(access, secret);
