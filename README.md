@@ -33,11 +33,11 @@ PDF & CHM located in the "Release" section of this Git Repo.
 
 ## Contact us
 
-Visit: The [Contact Systems](https://www.contactsystems.io/) website and follow us on [Twitter](https://twitter.com/c0ntactsystems) (#contactsystems)
+*Visit:* The [Contact Systems](https://www.contactsystems.io/) website and follow us on [Twitter](https://twitter.com/c0ntactsystems) (#contactsystems)
 
-Read: The [Contact Systems Medium] (https://medium.com/c%C3%B8ntact-systems)
+*Read:* The [Contact Systems Medium] (https://medium.com/c%C3%B8ntact-systems)
 
-Chat: [discord](https://discord.gg/J9ntMyU)
+*Chat:* [discord](https://discord.gg/J9ntMyU)
 
 ## Open Issues
 If you encounter a bug/error with the Metropolis SDK for Node.js, we would love to hear about it. Search our [Existing Issues]() and if you're unable to find it there, please open a new issue. Make sure to include:
