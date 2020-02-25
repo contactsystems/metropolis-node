@@ -21,11 +21,13 @@ var access = "00000000-0000-0000-0000-000000000000", secret = "00000000-0000-000
 var contact = require('metropolis-node'), sdk = new contact(access, secret);
 ```
 
-## Usage & Getting Started
+## Getting Started
 
 To onboarding to our system, please email us at: [info@contactsystems.io]
+
 Starting Guide: <URL HERE>
-[Wiki/Docs]: (https://github.com/contactsystems/metropolis-node/wiki
+
+Wiki/Docs: [https://github.com/contactsystems/metropolis-node/wiki]
 
 PDF & CHM located in the "Release" section of this Git Repo.
 
