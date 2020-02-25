@@ -7,36 +7,36 @@ The Metropolis Node.js SDK provides game developer tools to facilitate gaming it
 * Game session creation
 * Game ownership validation
 
+## Getting Started
+
+**To onboarding to our system, please email us at:** info@contactsystems.io
+
+**GitWiki:** https://github.com/contactsystems/metropolis-node/wiki
+
 ## Installing & Example
 
-### NPM
+#### NPM
 
 Install via [npm](https://www.npmjs.com/):
 ```sh
 ~$ npm install metropolis-node --save
 ```
 
-### Example
+#### Example
 ```javascript
 var access = "00000000-0000-0000-0000-000000000000", secret = "00000000-0000-0000-0000-000000000000";
 var contact = require('metropolis-node'), sdk = new contact(access, secret);
 ```
 
 ## Open Issues
-If you encounter a bug/error with the Metropolis SDK for Node.js, we'd love to hear about it. Search our [Existing Issues]() and if you're unable to find it there, please open a new issue. Make sure to include:
-* SDK version number
-* Node.js
-* OS used
-* Let us know if you're running this inside Docker
-* Stack Trace or Debug Console Output
+If you encounter a bug/error with the Metropolis SDK for Node.js, we'd love to hear about it. Search our [Existing Issues](https://github.com/contactsystems/metropolis-node/issues) and if you're unable to find it there, please open a new issue. Make sure to include:
+* SDK version
+* Node.js version
+* OS & OS version
+* Let us know if you're running this inside Docker Container
+* Stack Trace or Debug error message
 
 GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizing our Node.js SDK, please visit our [Discord](https://discord.gg/E9WVsWt) and let us know how we can help.
-
-## Getting Started
-
-**To onboarding to our system, please email us at:** info@contactsystems.io
-
-**GitWiki:** https://github.com/contactsystems/metropolis-node/wiki
 
 ## Contact Us
 
