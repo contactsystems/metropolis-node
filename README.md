@@ -23,24 +23,28 @@ var contact = require('metropolis-node'), sdk = new contact(access, secret);
 
 ## Getting Started
 
-To onboarding to our system, please email us at: [info@contactsystems.io]
+To onboarding to our system, please email us at: info@contactsystems.io
 
 Starting Guide: <URL HERE>
 
-Wiki/Docs: [https://github.com/contactsystems/metropolis-node/wiki]
+Wiki/Docs: https://github.com/contactsystems/metropolis-node/wiki
 
 PDF & CHM located in the "Release" section of this Git Repo.
 
-## Getting Help
-Here's a list of community resources for getting help:
+## Contact us
 
-* Ask a question on [StackOverflow](https://stackoverflow.com/) and tag it with `metropolis-node`
-* Ask a question directly on [Twitter](https://twitter.com/c0ntactsystems) and tag it with `#metropolisnode`
-* Come join the Metropolis Developer Community on [discord](https://discord.gg/J9ntMyU)
-* If it turns out that you may have found a bug, please [Open an Issue](support@kalorian.io)
+Visit: The [Contact Systems](https://www.contactsystems.io/) website and follow us on [Twitter](https://twitter.com/c0ntactsystems) (#contactsystems)
+Learn: API Docs, Support Forum and StackOverflow
+Read: The [Contact Systems Medium] (https://medium.com/c%C3%B8ntact-systems)
+Chat: [discord](https://discord.gg/J9ntMyU)
 
 ## Open Issues
-If you encounter a bug/error with the Metropolis SDK for Node.js, we would love to hear about it. Search our [Existing Issues]() and if you're unable to find it there, please open a new issue. Please include the version of the SDK, Node.js, your OS, let us know if you're running this inside Docker, and please include any Stack Trace or Debug Console Output as well.
+If you encounter a bug/error with the Metropolis SDK for Node.js, we would love to hear about it. Search our [Existing Issues]() and if you're unable to find it there, please open a new issue. Make sure to include:
+* SDK version number
+* Node.js
+* OS used
+* Let us know if you're running this inside Docker
+* Stack Trace or Debug Console Output
 
 GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizing our Node.js SDK, please visit our [Discord Server](), and check out our other resource information listed above in the "Getting Help" section.
 
