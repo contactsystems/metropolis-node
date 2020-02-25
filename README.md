@@ -1,4 +1,5 @@
-# metropolis-node - Game developer tools to facilitate digital asset generation & user ownership association
+# metropolis-node
+## Game developer tools to facilitate digital asset generation & user ownership association
 
 The Metropolis Node.js SDK provides:
 
