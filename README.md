@@ -35,8 +35,7 @@ Here's a list of community resources for getting help:
 * Ask a question on [StackOverflow](https://stackoverflow.com/) and tag it with `metropolis-node`
 * Ask a question directly on [Twitter](https://twitter.com/c0ntactsystems) and tag it with `#metropolisnode`
 * Come join the Metropolis Developer Community on [discord](https://discord.gg/J9ntMyU)
-* Send a support email [Contact Systems Email]()
-* If it turns out that you may have found a bug, please [Open an Issue]()
+* If it turns out that you may have found a bug, please [Open an Issue](support@kalorian.io)
 
 ## Open Issues
 If you encounter a bug/error with the Metropolis SDK for Node.js, we would love to hear about it. Search our [Existing Issues]() and if you're unable to find it there, please open a new issue. Please include the version of the SDK, Node.js, your OS, let us know if you're running this inside Docker, and please include any Stack Trace or Debug Console Output as well.
