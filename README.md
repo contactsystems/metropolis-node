@@ -24,17 +24,18 @@ var contact = require('metropolis-node'), sdk = new contact(access, secret);
 ## Usage & Getting Started
 
 Starting Guide: <URL HERE>
-Wiki/Docs: <URL HERE>
+Wiki/Docs: https://github.com/contactsystems/metropolis-node/wiki
+If interested in onboarding to our system, please email us at: info@contactsystems.io
 
 PDF & CHM located in the Release Section of this Git Repo.
 
 ## Getting Help
-Here is a List of Community Resources for getting Help!
+Here's a list of community resources for getting help:
 
 * Ask a question on [StackOverflow](https://stackoverflow.com/) and tag it with `metropolis-node`
 * Come join the Metropolis Developer Community on [discord]()
 * Open a issue ticket with [Contact Systems Support]()
-* Send a Support Email [Contact Systems Email]()
+* Send a support email [Contact Systems Email]()
 * If it turns out that you may have found a bug, please [Open an Issue]()
 
 ## Open Issues
