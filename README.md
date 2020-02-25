@@ -1,10 +1,10 @@
 # metropolis-node
 
-The Official Node.js SDK for the Metropolis ~ Copy goes here
+The Metropolis Node.js SDK ~ Copy goes here
 
 It Provides
 
-* Management of User INVENTORY
+* User inventory management
 * Handling & Control of Minting Assets for Users
 * Game Session Creation
 * Game Ownership Validation
