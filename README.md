@@ -2,7 +2,7 @@
 
 > Provides game developer tools to facilitate gaming item generation & user ownership association
 
-The SDK includes:
+Our SDK includes:
 
 * User inventory management
 * Gaming item creation & minting
