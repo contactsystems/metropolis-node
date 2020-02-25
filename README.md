@@ -11,9 +11,9 @@ The Metropolis Node.js SDK provides game developer tools to facilitate gaming it
 
 ### NPM
 
-Install via [npm](https://www.npmjs.com/)
+Install via [npm](https://www.npmjs.com/):
 ```sh
- developer@computer: ~$ npm install metropolis-node --save
+~$ npm install metropolis-node --save
 ```
 
 #### Example
