@@ -35,14 +35,14 @@ var contact = require('metropolis-node'), sdk = new contact(access, secret);
 ```
 
 ## Open Issues
-If you encounter a bug/error with the Metropolis SDK for Node.js, we'd love to hear about it. Search our [Existing Issues](https://github.com/contactsystems/metropolis-node/issues) and if you're unable to find it there, please open a new issue. Make sure to include:
+If you encounter a bug/error with the Metropolis SDK for Node.js, we'd love to hear about it. Search our [Existing Issues](https://github.com/contactsystems/metropolis-node/issues) & if you're unable to find it there, please open a new issue. Make sure to include:
 * SDK version
 * Node.js version
 * OS & OS version
 * Let us know if you're running this inside Docker Container
 * Stack Trace or Debug error message
 
-GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizing our Node.js SDK, please visit our [Discord](https://discord.gg/E9WVsWt) and let us know how we can help.
+GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizing our Node.js SDK, please visit our [Discord](https://discord.gg/E9WVsWt) & let us know how we can help.
 
 ## Contact Us
 
