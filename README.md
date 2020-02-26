@@ -1,4 +1,4 @@
-# Metropolis Node.js SDK
+![](files/metropolis-nodejs-githubheader.jpg)
 
 > Provides game developer tools to facilitate gaming item generation & user ownership association
 
@@ -8,8 +8,6 @@ Our SDK includes:
 * Gaming item creation & minting
 * Game session creation
 * Game ownership validation
-
-![](files/metropolis-nodejs-githubheader.jpg)
 
 ## Getting Started
 
