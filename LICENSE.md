@@ -2,7 +2,7 @@ SDK License Agreement
 
 C0NTACT INC.
 
-​Last updated on: February 26, 2020
+Last updated on: February 26, 2020
 
 
 
@@ -88,14 +88,15 @@ h. Counterparts. This Agreement may be executed in counterparts, each of which
 
 i. Export Law. You agree to comply fully with all U.S. export laws and regulations to ensure that the SDK, Documentation nor any technical data related thereto nor any direct product thereof are exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations.
 
-​
-
 EXHIBIT A - SDK
 
 1. Metropolis Node.js SDK, which provides game developer tools to facilitate gaming item generation & user ownership association. This includes:
     1.1. User inventory management
+    
     1.2. Gaming item creation & minting
+    
     1.3. Game session creation
+    
     1.4. Game ownership validation
 
 ​
