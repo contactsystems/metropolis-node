@@ -16,7 +16,7 @@ B. C0NTACT is making versions of the SDK available to developers that desire to 
 
 C. You desire to obtain one or more copies or versions of the SDK for internal development or commercial product development purposes and C0NTACT is willing to make such versions of the SDK available to You, subject to and in accordance with the terms and conditions of this Agreement.
 
-NOW, THEREFORE, in consideration of the foregoing, the parties hereby agree as follows: 
+NOW, THEREFORE, in consideration of the foregoing, the parties hereby agree as follows:
 
 1. LICENSE.
 
@@ -91,6 +91,7 @@ i. Export Law. You agree to comply fully with all U.S. export laws and regulati
 EXHIBIT A - SDK
 
 1. Metropolis Node.js SDK, which provides game developer tools to facilitate gaming item generation & user ownership association. This includes:
+
     1.1. User inventory management
     
     1.2. Gaming item creation & minting
