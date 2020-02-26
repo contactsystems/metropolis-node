@@ -32,7 +32,7 @@ a. Ownership. You acknowledge and agree that, as between the parties, C0NTACT 
 
 b. Feedback. You acknowledge that C0NTACT desires to obtain comments, suggestions and feedback with respect to the operation, performance and reliability of the SDK, including suggestions for improvement (collectively, “Feedback”). You agree to provide C0NTACT with Feedback regarding the SDK, and any other information reasonably requested by C0NTACT. You agree that such Feedback will be the sole and exclusive property of C0NTACT and You hereby irrevocably assign to C0NTACT and agree to assign to C0NTACT all rights, title, and interest in and to all Feedback, including all intellectual property rights therein.
 
-3. CONFIDENTIAL INFORMATION:                                                                
+  3. CONFIDENTIAL INFORMATION:                                                                
 
 a. Definition. “Confidential Information” means: (a) the SDK and all technical information relating thereto; and (b) any business or technical information of C0NTACT, including, but not limited to, any information relating to C0NTACT’s product plans, designs, costs, product prices and names, finances, marketing plans, business opportunities, personnel, research, development or know-how.
 
