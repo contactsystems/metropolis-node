@@ -15,6 +15,8 @@ Our SDK includes:
 
 **GitWiki:** https://github.com/contactsystems/metropolis-node/wiki
 
+**Guides:** https://github.com/contactsystems/metropolis-node/wiki
+
 ## Installing & Example
 
 #### NPM
