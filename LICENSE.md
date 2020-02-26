@@ -92,12 +92,10 @@ EXHIBIT A - SDK
 
 1. Metropolis Node.js SDK, which provides game developer tools to facilitate gaming item generation & user ownership association. This includes:
 
-    1.1. User inventory management
+   * 1.1. User inventory management
     
-    1.2. Gaming item creation & minting
+   * 1.2. Gaming item creation & minting
     
-    1.3. Game session creation
+   * 1.3. Game session creation
     
-    1.4. Game ownership validation
-
-​
+   * 1.4. Game ownership validation
