@@ -9,6 +9,8 @@ Our SDK includes:
 * Game session creation
 * Game ownership validation
 
+![Metropolis Node.js](https://drive.google.com/file/d/1omCYvYWkROr5ALXEl6ePHkDh5khJJR-G/view)
+
 ## Getting Started
 
 **To onboarding to our system, please email us at:** info@contactsystems.io
