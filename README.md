@@ -46,7 +46,7 @@ GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizin
 
 ## Contact Us
 
-**Website:** [Contact Systems](https://www.contactsystems.io/)
+**Website:** [CØNTACT Systems](https://www.contactsystems.io/)
 
 **Twitter:** [Twitter](https://twitter.com/c0ntactsystems)
 
