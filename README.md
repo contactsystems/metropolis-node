@@ -58,4 +58,4 @@ GitHub Issues are intended for Bug Reports & Feature Requests. For help utilizin
 
 ## License
 
-This SDK is distributed under the [SDK License](), see LICENSE.md for more information.
+This SDK is distributed under the [SDK License](https://www.contactsystems.io/sdk-license-agreement), see LICENSE.md for more information.
