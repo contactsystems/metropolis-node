@@ -42,25 +42,25 @@ c. Exclusions. The obligations in Section 3.b. will not apply to the extent an
 
 d. Publicity. You may not issue any press releases or make any other public statements regarding this Agreement, its terms and conditions or the relationship of the parties without C0NTACT’s express prior written approval, which approval C0NTACT may grant or withhold at its sole discretion.
 
-  4. WARRANTY DISCLAIMER.
+4. WARRANTY DISCLAIMER.
 
 The SDK is provided “AS IS,” WITHOUT WARRANTY OF ANY KIND. C0NTACT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
 
-  5. TECHNICAL SUPPORT.
+5. TECHNICAL SUPPORT.
 
 C0NTACT will provide You with technical support for the SDK. Such support services will be limited to answering technical questions regarding software application programming interfaces, including the SDK, via telephone or electronic mail. C0NTACT will make such technical support available during the hours of 9:00AM to 5:00 PM (Pacific Time) Monday through Friday (except holidays). Support services requested by email will be responded with two (2) business days of receipt. When possible You will funnel support service requests through a limited number of Your personnel.
 
-  6. INDEMNITY.
+6. INDEMNITY.
 
 You will indemnify, hold harmless, and defend C0NTACT from and against any and all claims, liabilities, damages, losses, costs and expenses (including but not limited to reasonable attorneys fees) arising out of or resulting from the use, marketing, licensing, distribution or sale of any of Your Applications including any claims alleging that a Your Application infringes or misappropriates the intellectual property rights of a third party. C0NTACT will (i) promptly notify You of the claim; (ii) provide You with all reasonable information and assistance, at Your expense, to defend or settle such a claim; and (iii) grant You authority and control of the defense and settlement of the claim.
 
-  7. LIMITATION OF LIABILITY.
+7. LIMITATION OF LIABILITY.
 
 a. Exclusion of Damages. IN NO EVENT WILL C0NTACT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF REVENUE, USE, PROFITS, DATA OR GOODWILL, OR FOR THE COST OF PROCURING SUBSTITUTE PRODUCTS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE, OPERATION OR PERFORMANCE OF THE SDK, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, AND WHETHER OR NOT C0NTACT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. THE PARTIES HAVE AGREED THAT THESE LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
 b. Total Liability. C0NTACT’S TOTAL LIABILITY TO LICENSEE ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, FROM ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY, WILL BE LIMITED TO THE AMOUNTS PAID BY YOU TO C0NTACT PURSUANT TO THIS AGREEMENT. IF C0NTACT HAS MADE THE SDK AVAILABLE TO YOU WITHOUT CHARGE, C0NTACT’S TOTAL LIABILITY WILL BE LIMITED TO $500.
 
-  8. TERM AND TERMINATION.
+8. TERM AND TERMINATION.
 
 a. Termination. Each party has the right to terminate this Agreement if the other party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after written notice thereof.
 
@@ -68,7 +68,7 @@ b. Effect of Termination. Upon any termination of this Agreement: (a) the righ
 
 c. Survival. The applicable provisions of Sections 2, 3, 4, 5, 6, 7 and 8 will survive any termination or expiration of this Agreement.
 
-  9. GENERAL.
+9. GENERAL.
 
 a. Assignment. You may not assign or transfer this Agreement, in whole or in part, by operation of law or otherwise, without the prior written consent of C0NTACT. Any attempted assignment without such consent will be void. Subject to the foregoing, this Agreement will bind and benefit the parties and their respective successors and assigns.
 
@@ -92,10 +92,10 @@ EXHIBIT A - SDK
 
 1. Metropolis Node.js SDK provides game developer tools to facilitate gaming item generation & user ownership association. This includes:
 
-   1.1. User inventory management
+ * User inventory management
     
-   1.2. Gaming item creation & minting
+ * Gaming item creation & minting
     
-   1.3. Game session creation
+ * Game session creation
     
-   1.4. Game ownership validation
+ * Game ownership validation
