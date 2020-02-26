@@ -18,7 +18,7 @@ C. You desire to obtain one or more copies or versions of the SDK for internal d
 
 NOW, THEREFORE, in consideration of the foregoing, the parties hereby agree as follows:
 
-  1. LICENSE.
+1. LICENSE.
 
 a.  SDK License. Subject to Your compliance with the terms and conditions of this Agreement, C0NTACT hereby grants You a personal, perpetual, nonexclusive license to use and reproduce the SDK for installation on Your owned development stations, for use by Your employees and contractors, solely for the purposes of developing and testing applications that operate on or in connection with the Services (“Your Applications”). The SDK contains certain open source software and is licensed pursuant to the applicable open source licenses specified in the documentation and is provided WITHOUT ANY WARRANTY. You can modify and distribute the open source software in accordance with the terms of the specified licenses.
 
@@ -26,13 +26,13 @@ b. Restrictions. You have no right to use or reproduce the SDK except as expres
 
 c. Limited Rights. C0NTACT and its licensors reserve all rights and licenses in and to the Services, SDK and Documentation not expressly granted to You under this Agreement.
 
-  2. CONDITIONS.
+2. CONDITIONS.
 
 a. Ownership. You acknowledge and agree that, as between the parties, C0NTACT owns all right, title, and interest in and to the Services and SDK, including all worldwide patent rights, copyrights, trade secrets, and any other intellectual property rights therein. You will reproduce all of C0NTACT and its licensor’s copyright notices and any other proprietary rights notices on all copies of the SDK that You make hereunder.
 
 b. Feedback. You acknowledge that C0NTACT desires to obtain comments, suggestions and feedback with respect to the operation, performance and reliability of the SDK, including suggestions for improvement (collectively, “Feedback”). You agree to provide C0NTACT with Feedback regarding the SDK, and any other information reasonably requested by C0NTACT. You agree that such Feedback will be the sole and exclusive property of C0NTACT and You hereby irrevocably assign to C0NTACT and agree to assign to C0NTACT all rights, title, and interest in and to all Feedback, including all intellectual property rights therein.
 
-  3. CONFIDENTIAL INFORMATION:                                                                
+3. CONFIDENTIAL INFORMATION:                                                                
 
 a. Definition. “Confidential Information” means: (a) the SDK and all technical information relating thereto; and (b) any business or technical information of C0NTACT, including, but not limited to, any information relating to C0NTACT’s product plans, designs, costs, product prices and names, finances, marketing plans, business opportunities, personnel, research, development or know-how.
 
@@ -90,7 +90,7 @@ i. Export Law. You agree to comply fully with all U.S. export laws and regulati
 
 EXHIBIT A - SDK
 
-1. Metropolis Node.js SDK, which provides game developer tools to facilitate gaming item generation & user ownership association. This includes:
+1. Metropolis Node.js SDK provides game developer tools to facilitate gaming item generation & user ownership association. This includes:
 
    1.1. User inventory management
     
