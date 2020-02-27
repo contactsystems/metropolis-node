@@ -1,4 +1,4 @@
-SDK License Agreement
+# SDK License Agreement
 
 C0NTACT INC.
 
@@ -42,19 +42,19 @@ c. Exclusions. The obligations in Section 3.b. will not apply to the extent an
 
 d. Publicity. You may not issue any press releases or make any other public statements regarding this Agreement, its terms and conditions or the relationship of the parties without C0NTACT’s express prior written approval, which approval C0NTACT may grant or withhold at its sole discretion.
 
-### 4. WARRANTY DISCLAIMER.
+### 4. WARRANTY DISCLAIMER
 
 The SDK is provided “AS IS,” WITHOUT WARRANTY OF ANY KIND. C0NTACT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
 
-### 5. TECHNICAL SUPPORT.
+### 5. TECHNICAL SUPPORT
 
 C0NTACT will provide You with technical support for the SDK. Such support services will be limited to answering technical questions regarding software application programming interfaces, including the SDK, via telephone or electronic mail. C0NTACT will make such technical support available during the hours of 9:00AM to 5:00 PM (Pacific Time) Monday through Friday (except holidays). Support services requested by email will be responded with two (2) business days of receipt. When possible You will funnel support service requests through a limited number of Your personnel.
 
-### 6. INDEMNITY.
+### 6. INDEMNITY
 
 You will indemnify, hold harmless, and defend C0NTACT from and against any and all claims, liabilities, damages, losses, costs and expenses (including but not limited to reasonable attorneys fees) arising out of or resulting from the use, marketing, licensing, distribution or sale of any of Your Applications including any claims alleging that a Your Application infringes or misappropriates the intellectual property rights of a third party. C0NTACT will (i) promptly notify You of the claim; (ii) provide You with all reasonable information and assistance, at Your expense, to defend or settle such a claim; and (iii) grant You authority and control of the defense and settlement of the claim.
 
-### 7. LIMITATION OF LIABILITY.
+### 7. LIMITATION OF LIABILITY
 
 a. Exclusion of Damages. IN NO EVENT WILL C0NTACT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF REVENUE, USE, PROFITS, DATA OR GOODWILL, OR FOR THE COST OF PROCURING SUBSTITUTE PRODUCTS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE, OPERATION OR PERFORMANCE OF THE SDK, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, AND WHETHER OR NOT C0NTACT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. THE PARTIES HAVE AGREED THAT THESE LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
