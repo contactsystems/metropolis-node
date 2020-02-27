@@ -4,10 +4,13 @@
 
 Our SDK includes:
 
-* User inventory management
-* Gaming item creation & minting
-* Game session creation
-* Game ownership validation
+  * User authentication
+  * Digital asset storage, retrieval, and modification
+  * Game ownership validation
+  * Game session creation
+  * Game service to primary marketplace integration
+  * Digital asset creation and minting
+  * User inventory management
 
 ## Getting Started
 
