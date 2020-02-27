@@ -42,7 +42,7 @@ c. Exclusions. The obligations in Section 3.b. will not apply to the extent an
 
 d. Publicity. You may not issue any press releases or make any other public statements regarding this Agreement, its terms and conditions or the relationship of the parties without C0NTACT’s express prior written approval, which approval C0NTACT may grant or withhold at its sole discretion.
 
-### 4. WARRANTY DISCLAIMER.
+### 4. WARRANTY DISCLAIMER.
 
 The SDK is provided “AS IS,” WITHOUT WARRANTY OF ANY KIND. C0NTACT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
 
@@ -92,10 +92,10 @@ EXHIBIT A - SDK
 
 1. Metropolis Node.js SDK provides game developer tools to facilitate gaming item generation & user ownership association. This includes:
 
- 1. User inventory management
+   1. User inventory management
 
- 1. Gaming item creation & minting
+   1. Gaming item creation & minting
 
- 1. Game session creation
+   1. Game session creation
 
- 1. Game ownership validation
+   1. Game ownership validation
