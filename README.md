@@ -5,7 +5,7 @@
 Our SDK includes:
 
   * User authentication
-  * Digital asset storage, retrieval, and modification
+  * Digital asset storage, retrieval, & modification
   * Game ownership validation
   * Game session creation
   * Game service to primary marketplace integration
