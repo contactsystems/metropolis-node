@@ -90,11 +90,11 @@ i. Export Law. You agree to comply fully with all U.S. export laws and regulati
 
 EXHIBIT A - SDK
 
-1. Metropolis Node.js SDK provides game developer tools to facilitate gaming item generation & user ownership association. This includes:
+1. Metropolis Node.js SDK provides game developer tools to facilitate gaming item generation and user ownership association. This includes:
 
    1. User inventory management
 
-   1. Gaming item creation & minting
+   1. Gaming item creation and minting
 
    1. Game session creation
 
