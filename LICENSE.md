@@ -8,7 +8,7 @@ Last updated on: February 26, 2020
 
 SALES OR LICENSES MADE BY CONTACT, INC. AND ITS AFFILIATES (COLLECTIVELY, "CONTACT") TO YOU ("YOU" and “YOUR”) FOR THIS SOFTWARE DEVELOPMENT KIT (“SDK”) AND DOCUMENTATION ("DOCUMENTATION") ARE EXPRESSLY CONDITIONED ON YOUR ACCEPTANCE OF THIS SDK LICENSE AGREEMENT ("AGREEMENT"). THIS AGREEMENT AND ANY SUPPLEMENTAL TERMS PROVIDED BY CONTACT CONSTITUTE THE ENTIRE AGREEMENT BETWEEN CONTACT AND YOU FOR THE USE OF THE SDK AND DOCUMENTATION AND SUPERSEDE ALL PREVIOUS NEGOTIATIONS, DISCUSSIONS AND UNDERSTANDINGS, WHETHER ORAL OR WRITTEN, BETWEEN THE PARTIES WITH RESPECT TO THE SUBJECT MATTER HEREOF. UPON YOUR USE, REPRODUCTION, INSTALLATION, MODIFICATION OR DISTRIBUTION OF THE SDK OR DOCUMENTATION, IN WHOLE OR PART, (ANY OF WHICH CONSTITUTE THE EFFECTIVE DATE OF THIS AGREEMENT), YOU HEREBY AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. The SDK and Documentation are protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SDK and Documentation are licensed (not sold), and their use is subject to the terms of this Agreement.
 
-RECITALS
+### RECITALS
 
 A. C0NTACT has developed services for the creation, distribution, sales, and trading of digital assets (such services, as it may be later expanded or modified, are the “Service” or “Services”). C0NTACT has also developed an SDK, consisting of certain software tools, APIs and related Documentation, as more fully described in Exhibit A.
 
@@ -26,13 +26,13 @@ b. Restrictions. You have no right to use or reproduce the SDK except as expres
 
 c. Limited Rights. C0NTACT and its licensors reserve all rights and licenses in and to the Services, SDK and Documentation not expressly granted to You under this Agreement.
 
-### 2. CONDITIONS.
+### 2. CONDITIONS
 
 a. Ownership. You acknowledge and agree that, as between the parties, C0NTACT owns all right, title, and interest in and to the Services and SDK, including all worldwide patent rights, copyrights, trade secrets, and any other intellectual property rights therein. You will reproduce all of C0NTACT and its licensor’s copyright notices and any other proprietary rights notices on all copies of the SDK that You make hereunder.
 
 b. Feedback. You acknowledge that C0NTACT desires to obtain comments, suggestions and feedback with respect to the operation, performance and reliability of the SDK, including suggestions for improvement (collectively, “Feedback”). You agree to provide C0NTACT with Feedback regarding the SDK, and any other information reasonably requested by C0NTACT. You agree that such Feedback will be the sole and exclusive property of C0NTACT and You hereby irrevocably assign to C0NTACT and agree to assign to C0NTACT all rights, title, and interest in and to all Feedback, including all intellectual property rights therein.
 
-### 3. CONFIDENTIAL INFORMATION                                                                
+### 3. CONFIDENTIAL INFORMATION
 
 a. Definition. “Confidential Information” means: (a) the SDK and all technical information relating thereto; and (b) any business or technical information of C0NTACT, including, but not limited to, any information relating to C0NTACT’s product plans, designs, costs, product prices and names, finances, marketing plans, business opportunities, personnel, research, development or know-how.
 
@@ -42,25 +42,25 @@ c. Exclusions. The obligations in Section 3.b. will not apply to the extent an
 
 d. Publicity. You may not issue any press releases or make any other public statements regarding this Agreement, its terms and conditions or the relationship of the parties without C0NTACT’s express prior written approval, which approval C0NTACT may grant or withhold at its sole discretion.
 
-# WARRANTY DISCLAIMER.
+### 4. WARRANTY DISCLAIMER.
 
 The SDK is provided “AS IS,” WITHOUT WARRANTY OF ANY KIND. C0NTACT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
 
-# TECHNICAL SUPPORT.
+### 5. TECHNICAL SUPPORT.
 
 C0NTACT will provide You with technical support for the SDK. Such support services will be limited to answering technical questions regarding software application programming interfaces, including the SDK, via telephone or electronic mail. C0NTACT will make such technical support available during the hours of 9:00AM to 5:00 PM (Pacific Time) Monday through Friday (except holidays). Support services requested by email will be responded with two (2) business days of receipt. When possible You will funnel support service requests through a limited number of Your personnel.
 
-# INDEMNITY.
+### 6. INDEMNITY.
 
 You will indemnify, hold harmless, and defend C0NTACT from and against any and all claims, liabilities, damages, losses, costs and expenses (including but not limited to reasonable attorneys fees) arising out of or resulting from the use, marketing, licensing, distribution or sale of any of Your Applications including any claims alleging that a Your Application infringes or misappropriates the intellectual property rights of a third party. C0NTACT will (i) promptly notify You of the claim; (ii) provide You with all reasonable information and assistance, at Your expense, to defend or settle such a claim; and (iii) grant You authority and control of the defense and settlement of the claim.
 
-# LIMITATION OF LIABILITY.
+### 7. LIMITATION OF LIABILITY.
 
 a. Exclusion of Damages. IN NO EVENT WILL C0NTACT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF REVENUE, USE, PROFITS, DATA OR GOODWILL, OR FOR THE COST OF PROCURING SUBSTITUTE PRODUCTS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE, OPERATION OR PERFORMANCE OF THE SDK, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, AND WHETHER OR NOT C0NTACT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. THE PARTIES HAVE AGREED THAT THESE LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
 b. Total Liability. C0NTACT’S TOTAL LIABILITY TO LICENSEE ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, FROM ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY, WILL BE LIMITED TO THE AMOUNTS PAID BY YOU TO C0NTACT PURSUANT TO THIS AGREEMENT. IF C0NTACT HAS MADE THE SDK AVAILABLE TO YOU WITHOUT CHARGE, C0NTACT’S TOTAL LIABILITY WILL BE LIMITED TO $500.
 
-8. TERM AND TERMINATION.
+### 8. TERM AND TERMINATION
 
 a. Termination. Each party has the right to terminate this Agreement if the other party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after written notice thereof.
 
@@ -68,7 +68,7 @@ b. Effect of Termination. Upon any termination of this Agreement: (a) the righ
 
 c. Survival. The applicable provisions of Sections 2, 3, 4, 5, 6, 7 and 8 will survive any termination or expiration of this Agreement.
 
-9. GENERAL.
+### 9. GENERAL
 
 a. Assignment. You may not assign or transfer this Agreement, in whole or in part, by operation of law or otherwise, without the prior written consent of C0NTACT. Any attempted assignment without such consent will be void. Subject to the foregoing, this Agreement will bind and benefit the parties and their respective successors and assigns.
 
@@ -92,10 +92,10 @@ EXHIBIT A - SDK
 
 1. Metropolis Node.js SDK provides game developer tools to facilitate gaming item generation & user ownership association. This includes:
 
- * User inventory management
+ 1. User inventory management
 
- * Gaming item creation & minting
+ 1. Gaming item creation & minting
 
- * Game session creation
+ 1. Game session creation
 
- * Game ownership validation
+ 1. Game ownership validation
